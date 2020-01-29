@@ -1,7 +1,7 @@
 ---
-permalink: /guides/app-logging/
+permalink: /guides/app-logging-ocp-4-2/
 ---
-:projectid: app-logging
+:projectid: app-logging-ocp-4-2
 :page-layout: guide
 :page-duration: 30 minutes
 :page-releasedate: 2019-09-03
